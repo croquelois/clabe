@@ -1,0 +1,13 @@
+{
+  "name": "clabe",
+  "version": "0.0.1",
+  "authors": [
+    "Matthieu Croquelois <croquelois@gmail.com>"
+  ],
+  "description": "Check a CLABE number",
+  "main": "clabe.js",
+  "keywords": [
+    "CLABE",
+    "SEPI"
+  ]
+}
